@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let's talk about the universe and code. 👋
 
 <!--
 **CharlieZhao95/CharlieZhao95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
