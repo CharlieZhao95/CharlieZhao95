@@ -1,5 +1,5 @@
 ### Know something of everything.
-### Let's see who is real code genius.:fist:
+### Let's see who is real code genius.:wink:
 
 <!--
 **CharlieZhao95/CharlieZhao95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
