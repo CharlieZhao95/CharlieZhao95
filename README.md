@@ -1,7 +1,9 @@
-### Know something of everything:fish: 
-- :fire: Game Master.
-- :seedling: Learning ML & quantification recently.
-- :ghost: Be an interesting person.
+### Practice makes perfect :fish: 
+- 📖 Learning AI compiler & CPython recently.
+- 👻 C/C++/Python Developer.
+- 🎮 Game Master. 
+    - If you like the DarkSouls series of games, we'll be good friends!
+    - *Playing Detroit Become Human now.*
 
 
 <!--
