@@ -2,9 +2,6 @@
 - 📖 Learning AI compiler & CPython recently.
 - 👻 C/C++/Python Developer.
 - 🎮 Game Master. 
-    - If you like the DarkSouls series of games, we'll be good friends!
-    - *Playing Detroit Become Human now.*
-
 
 <!--
 **CharlieZhao95/CharlieZhao95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
